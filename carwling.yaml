@@ -1,0 +1,8 @@
+name: crawling
+channels:
+  - conda-forge
+  - rmg
+  - rdkit
+  - pytorch
+  - defaults
+prefix: /Users/hwangjaewon/anaconda3/envs/crawling
